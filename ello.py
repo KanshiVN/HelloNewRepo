@@ -1,5 +1,4 @@
 print("Hello world")
-print("This is kanshi")
-print("This is kanshi")
-print("This is kanshi")
-print("This is kanshi")
+print(" world")
+print("Hello ")
+ 
